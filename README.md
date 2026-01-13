@@ -101,11 +101,6 @@ Make sure the Desktop folder exists and you have write permissions:
 
 MIT (see `LICENSE`).
 
-You already have:
-- `// SPDX-License-Identifier: MIT` in `main.go`
-
-Keep the full MIT text in `LICENSE` too.
-
 ---
 
 ## Disclaimer
