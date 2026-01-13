@@ -100,9 +100,3 @@ Make sure the Desktop folder exists and you have write permissions:
 ## License
 
 MIT (see `LICENSE`).
-
----
-
-## Disclaimer
-
-Provided “as is”, without warranty of any kind (see MIT License).
